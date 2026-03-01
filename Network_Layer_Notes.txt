@@ -32,7 +32,7 @@ What is a Packet?
     - An IP header contains the destination IP address of each packet
     - The total size of the packet
     - An indication of whether or not the packet has been fragmented in transit
-    - A count of how many networks the packets has traaveled through.
+    - A count of how many networks the packets has traveled through.
 
 What is an OSI(Open Systems Interconnection) model?
 - A description of how the Internet works. Breaks down the functions involved in sending data over
