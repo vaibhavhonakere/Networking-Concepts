@@ -14,7 +14,7 @@
         static routing tables.
         - Dynamic routing tables update automatically. They use various routing protocols
         to determine the shortest and fastest paths. One caveat is that these routing tables
-        need more compute power. 
+        need more compute power.
 
 ## Main Routing Protocols
     - IP(Internet Protocol) specifies the origin and destination for each data packet. Routers read this information
